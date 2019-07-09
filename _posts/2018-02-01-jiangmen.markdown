@@ -1,12 +1,15 @@
 ---
 layout: post
-title: "暗访·江门"
+title: "四月·江门"
 img: jiangmen.jpg # Add image post (optional)
 date: 2018-04-01 12:54:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Travel, Texas, Canyon]
 ---
-第一次你来到我的家乡。
+第一次你来到我的家乡。  
 
-是在2018年4月。
+是在2018年4月。  
 
+第二次是2019年2月。  
+
+不知道下一次什么时候带我去你的故乡呢？
